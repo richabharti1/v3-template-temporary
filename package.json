@@ -5,7 +5,7 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scriptabytes/v3-extension-react-template.git"
+    "url": "https://github.com/richabharti1/v3-template-temporary.git"
   },
   "scripts": {
     "build": "node utils/build.js",
