@@ -19,11 +19,12 @@ module.exports = {
         'tagName': 'v${version}',
         'requireCommits': true,
     },
-    "plugins": {
-        "@release-it/conventional-changelog": {
-            "preset": "angular",
-            "infile": "CHANGELOG.md"
-        }
+    'plugins': {
+        '@release-it/conventional-changelog': {
+            'preset': 'angular',
+            'infile': 'CHANGELOG.md',
+            'ignoreRecommendedBump': true,
+        },
     },
     'hooks': {
         'after:bump': ['npm run build && npm run create-zip'],
