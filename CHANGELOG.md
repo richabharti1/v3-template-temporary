@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/richabharti1/v3-template-temporary/compare/v0.1.0...v0.2.0) (2021-07-14)
+
+
+### Features
+
+* add line in background script ([28cc813](https://github.com/richabharti1/v3-template-temporary/commit/28cc8138f9bbefbc1a6f7ce1053af917152c5ff9))
+
 # [0.1.0](https://github.com/richabharti1/v3-template-temporary/compare/v0.0.3...v0.1.0) (2021-07-14)
 
 
