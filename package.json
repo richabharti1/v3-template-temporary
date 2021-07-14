@@ -1,6 +1,6 @@
 {
   "name": "v3-extension-react-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Boilerplate for chrome extension with manifest v3",
   "license": "UNLICENSED",
   "repository": {
